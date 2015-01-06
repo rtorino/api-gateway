@@ -1,0 +1,28 @@
+{
+  "name": "api-gateway",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Raymond Torino",
+  "license": "ISC",
+  "dependencies": {
+    "glob": "^4.3.2",
+    "hapi": "^8.0.0",
+    "hoek": "^2.10.0",
+    "rabbus": "^0.2.1",
+    "wascally": "^0.2.0-7"
+  },
+  "devDependencies": {
+    "gulp": "^3.8.10",
+    "gulp-eslint": "^0.2.2",
+    "gulp-jscs": "^1.4.0",
+    "gulp-jshint": "^1.9.1",
+    "gulp-lintspaces": "^0.2.3",
+    "gulp-load": "^0.1.1",
+    "lodash-node": "^3.0.1",
+    "minimist": "^1.1.0"
+  }
+}
